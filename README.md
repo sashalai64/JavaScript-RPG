@@ -1,2 +1,7 @@
 # JavaScript-RPG
-This is a role-playing mini game. Follow the instructions to play.
+
+## Description
+This is a role-playing mini game. Follow the in-game instructions to play.
+
+## How to Run
+You can open and run this project  in **[Replit](replit.com/@sashalai/JavaScript-RPG)** without installing any packages.
